@@ -1,0 +1,9 @@
+MES PETITS REPÈRES — VERSION DE TEST
+
+1. Cette archive contient une PWA à publier sur un hébergement statique HTTPS (ex : GitHub Pages gratuit, dépôt public). Publier les fichiers du dossier à la racine du site.
+2. Ouvrir ensuite l’adresse HTTPS sur le smartphone puis « Ajouter à l’écran d’accueil » / « Installer l’application ».
+3. Les réponses restent dans le stockage local du navigateur / de l’application installée. Pas de compte, pas de synchronisation. La sauvegarde JSON exportée est NON CHIFFRÉE.
+4. Ne pas utiliser avec des données réelles de santé : prototype non audité et sans chiffrement applicatif. Utiliser uniquement des données fictives.
+5. Un effacement du stockage, une désinstallation ou un changement d’appareil peut effacer les réponses. Des mises à jour peuvent également nécessiter un rechargement.
+6. Le site héberge uniquement le CODE de l’application : ne jamais publier d’exports ou de notes personnelles dans le dépôt. L’hébergeur peut recevoir les données techniques normales d’accès au site (IP, logs).
+7. Les fichiers dans l’archive sont gratuits, mais leur publication et la sécurité pour un usage clinique restent à valider.
